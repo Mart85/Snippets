@@ -1,2 +1,1 @@
-Snippets
-========
+Contains some snippets for Jquery and KnockoutJS
