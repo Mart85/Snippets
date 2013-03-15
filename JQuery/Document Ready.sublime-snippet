@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[\$j(function() \{
+$0
+\});]]>
+</content>
+	<tabTrigger>jdr</tabTrigger>
+	<scope>source.js, source.html</scope>
+</snippet>
